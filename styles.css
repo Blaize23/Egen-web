@@ -13,4 +13,13 @@ header
     margin-left: 30px;
     margin-right: 30px;
 }
+nav
+{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
 
