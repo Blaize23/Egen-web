@@ -26,21 +26,32 @@ main
 {
     display: flex;
     border-radius: 15px;
+    justify-content: space-between;
     background-color: antiquewhite;
     padding: 50px;
     margin-right: 30px;
     margin-left: 30px;
 }
-main img
+#picture1 img
 {
-    width: 200px;
-    border-radius: 30px;
+   width: 500px;
+   border-radius: 80px;
+}
+#picture2 img
+{
+    width: 500px;
+    border-radius: 80px;
+}
+#picture3 img
+{
+    width: 500px;
+    border-radius: 80px;
+    height: 330px;
 }
 article
 {
     display: flex;
     flex-direction: column;
-    
 }
 article p
 {
