@@ -25,8 +25,9 @@ nav
 main
 {
     display: flex;
+    flex-direction: row;
     border-radius: 15px;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: antiquewhite;
     padding: 50px;
     margin-right: 30px;
