@@ -22,4 +22,13 @@ nav
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
 }
-
+main
+{
+    background-color: antiquewhite;
+    padding: 50px;
+}
+main img
+{
+    width: 200px;
+    
+}
